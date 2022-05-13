@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+.container {
+    background:url(Dog2.png);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    box-sizing: border-box;
+    position: relative;
+}
+.navbar {
+    text-align: center;
+    padding: 300px;
+    
+}
+.navbar button {
+    font-family: Font;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: white;
+    box-shadow: none;
+    border-color: #F89D2F;
+    padding: 20px 20px;
+   
+}
